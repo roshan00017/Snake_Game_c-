@@ -3,6 +3,5 @@
 
 
 ### CONSOLE OUTPUT 
-
-<img src="C:\Users\offic\OneDrive\Pictures\Screenshots\ABCDE.png" alt="Alt text" title="Optional title">
+![ABCDE](https://user-images.githubusercontent.com/57831675/156923822-d0a44dbc-ce09-47a6-b31e-346171a82056.png)
 
