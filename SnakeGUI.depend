@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1646567723 source:c:\study 2\c++\snakegui\main.cpp
+	<graphics.h>
+	"snakeBody.h"
+	"food.h"
+
+1646567447 c:\study 2\c++\snakegui\snakebody.h
+	<graphics.h>
+
+1646567251 c:\study 2\c++\snakegui\food.h
+	<graphics.h>
+	<ctime>
+
